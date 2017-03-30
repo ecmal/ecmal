@@ -10,3 +10,6 @@
 [submodule "sample"]
 	path = sample
 	url = https://github.com/ecmal/sample.git
+[submodule "compiler"]
+	path = compiler
+	url = https://github.com/ecmal/compiler.git
