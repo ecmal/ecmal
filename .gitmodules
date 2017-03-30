@@ -1,15 +1,20 @@
 [submodule "core"]
 	path = core
 	url = https://github.com/ecmal/core.git
+	branch = next
 [submodule "node"]
 	path = node
 	url = https://github.com/ecmal/node.git
+	branch = next
 [submodule "runtime"]
 	path = runtime
 	url = https://github.com/ecmal/runtime.git
+	branch = next
 [submodule "sample"]
 	path = sample
 	url = https://github.com/ecmal/sample.git
+	branch = next
 [submodule "compiler"]
 	path = compiler
 	url = https://github.com/ecmal/compiler.git
+	branch = next
