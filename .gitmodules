@@ -1,0 +1,12 @@
+[submodule "core"]
+	path = core
+	url = https://github.com/ecmal/core.git
+[submodule "node"]
+	path = node
+	url = https://github.com/ecmal/node.git
+[submodule "runtime"]
+	path = runtime
+	url = https://github.com/ecmal/runtime.git
+[submodule "sample"]
+	path = sample
+	url = https://github.com/ecmal/sample.git
