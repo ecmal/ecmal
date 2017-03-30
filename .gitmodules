@@ -14,7 +14,4 @@
 	path = sample
 	url = https://github.com/ecmal/sample.git
 	branch = next
-[submodule "compiler"]
-	path = compiler
-	url = https://github.com/ecmal/compiler.git
-	branch = next
+
